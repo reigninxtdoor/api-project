@@ -7,3 +7,4 @@ const getImage=async function () {
     const images=await res.json();
 console.log(images);
 }
+dans
